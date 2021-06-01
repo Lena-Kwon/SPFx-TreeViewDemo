@@ -1,6 +1,6 @@
 {
   "name": "spfx-react-treeview-control",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "private": true,
   "main": "lib/index.js",
   "engines": {

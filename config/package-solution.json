@@ -3,7 +3,7 @@
   "solution": {
     "name": "spfx-react-treeview-control-client-side-solution",
     "id": "63208368-82da-47a5-8657-2d53a4b34227",
-    "version": "1.0.0.14",
+    "version": "1.0.0.16",
     "includeClientSideAssets": true,
     "isDomainIsolated": false,
     "developer": {

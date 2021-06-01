@@ -2,7 +2,7 @@
   "id": "0aeec25a-dc5a-4bda-b824-e0e2923e73cf",
   "alias": "TreeViewDemoWebPart",
   "componentType": "WebPart",
-  "version": "0.0.1",
+  "version": "0.0.14",
   "manifestVersion": 2,
   "requiresCustomScript": false,
   "supportedHosts": [
